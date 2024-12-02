@@ -41,7 +41,7 @@ The **Car Rental Website** is a responsive, feature-rich platform designed to si
 ### **Backend**
 - **Framework**: Node.js with Express.js
 - **Database**: PostgreSQL (Amazon RDS)
-- **Authentication**: JSON Web Tokens (JWT)
+- **Authentication**: AWS Cognito
 
 ### **Storage**
 - **File Uploads**: AWS S3 for secure license storage.
