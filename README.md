@@ -88,8 +88,9 @@ The **Car Rental Website** is a responsive, feature-rich platform designed to si
 ### **Admin Flow**
 1. Log in to the admin panel.
 2. Manage car inventory (add, edit, delete).
-3. Block dates for maintenance or special bookings.
-4. View and manage all bookings.
+3. Manage logos on home page (add, edit, delete).
+4. Block dates for maintenance or special bookings.
+5. View and manage all bookings.
 
 ---
 
@@ -116,9 +117,9 @@ The **Car Rental Website** is a responsive, feature-rich platform designed to si
 ---
 
 ## Future Enhancements
-- Add multi-language support.
 - Expand to additional locations.
 - Implement user accounts for returning customers.
+- iOS and Android Apps
 - Integrate advanced analytics with AWS Pinpoint.
 
 ---
